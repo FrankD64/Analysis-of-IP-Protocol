@@ -1,7 +1,4 @@
-CSC 361 Assignment 3 Analysis of IP Protocol
-
 Frank Deng
-V01036967
 
 a3_analyzer.py is main Python program for R1
 r2_report.pdf is written for R2
